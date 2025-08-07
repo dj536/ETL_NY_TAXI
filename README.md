@@ -7,7 +7,7 @@ ETL_NY_TAXI est un projet réalisé sur Databricks qui intègre, transforme et c
 ```ETL_NY_TAXI/
 ├─ New York_Taxi_ETL.ipynb         # Script PySpark développé sous Databricks pour le pipeline ETL complet.
 ├─ D_downloaded_script.py          # script python qui permet de télécharger les données depuis le site de New-York Taxi.
-
+```
 
 
 ##🛠️Technologies utilisées:
