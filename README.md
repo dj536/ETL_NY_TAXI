@@ -16,5 +16,13 @@ ETL_NY_TAXI est un projet réalisé sur Databricks qui intègre, transforme et c
 
 Python 3.11.9
 
- ## 🔍Tests
- ![image_alt](https://github.com/dj536/ETL_NY_TAXI/blob/main/images/etl1.jpg)
+
+
+## 🔍Tests
+![image_alt](https://github.com/dj536/ETL_NY_TAXI/blob/main/images/etl1.jpg)
+![image_alt](https://github.com/dj536/ETL_NY_TAXI/blob/main/images/etl2.jpg)
+ 
+
+
+## 🧪 Exemple de Résultat après
+![image_alt](https://github.com/dj536/ETL_NY_TAXI/blob/main/images/etl3.png)
