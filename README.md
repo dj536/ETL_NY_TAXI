@@ -10,8 +10,8 @@ ETL_NY_TAXI est un projet réalisé sur Databricks qui intègre, transforme et c
 ```
 
 
-##🛠️Technologies utilisées:
- Databricks
+## 🛠️Technologies utilisées:
+ Databricks 
 ```https://community.cloud.databricks.com/login.html?tuuid=64483552-f97f-47ce-873f-6c545cce9b22```
 
 Python 3.11.9
