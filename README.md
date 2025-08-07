@@ -26,3 +26,12 @@ Python 3.11.9
 
 ## 🧪 Exemple de Résultat
 ![image_alt](https://github.com/dj536/ETL_NY_TAXI/blob/main/images/etl3.png)
+
+
+
+👨‍💻 Auteur
+
+Réalisé par Justin DJIDONOU. N'hésitez pas à poser vos questions, signaler un bug ou proposer des idées.
+
+Vos suggestions sont les bienvenues 🙂
+
