@@ -1,6 +1,6 @@
 # ETL_NY_TAXI - ETL et Data Warehouse pour les données Taxi de New York
 
-ETL_NY_TAXI est un projet réalisé sur Databricks qui intègre, transforme et charge les données des trajets des taxis jaunes de New York pour construire un Data Warehouse optimisé facilitant l’analyse des déplacements urbains
+ETL_NY_TAXI est un projet ETL simple réalisé sur Databricks qui intègre, transforme et charge les données des trajets des taxis jaunes de New York pour construire un Data Warehouse optimisé facilitant l’analyse des déplacements urbains
 
 
 ## 📂Structure du projet
