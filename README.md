@@ -24,5 +24,5 @@ Python 3.11.9
  
 
 
-## 🧪 Exemple de Résultat après
+## 🧪 Exemple de Résultat
 ![image_alt](https://github.com/dj536/ETL_NY_TAXI/blob/main/images/etl3.png)
